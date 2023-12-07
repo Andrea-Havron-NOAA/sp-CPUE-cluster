@@ -39,3 +39,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 inst/doc
+
+# data file and script
+R/setup_data.R
