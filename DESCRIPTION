@@ -9,7 +9,7 @@ Depends: R (>= 4.0.0)
 Suggests: 
     rmarkdown,
     knitr
-Imports: stats, graphics, clustTMB
+Imports: stats, graphics
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
