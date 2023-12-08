@@ -2,7 +2,7 @@ Package: spCPUEcluster
 Title: Spatio-temporal cluster analysis of simulated CPUE data
 Version: 0.0.1
 Authors@R: person("Andrea", "Havron", , "andrea.havron@noaa.gov", role = c("aut", "cre"))
-URL: https://andrea-havron-noaa.github.io/sp-CPUE-cluster, https://github.com/Andrea-Havron-NOAA/sp-CPUE-cluster
+URL: https://andrea-havron-noaa.github.io/sp-CPUE-cluster, https://github.com/Andrea-Havron-NOAA/sp-CPUE-cluster, https://andrea-havron-noaa.github.io/sp-CPUE-cluster/
 BugReports: https://github.com/Andrea-Havron-NOAA/sp-CPUE-cluster/issues
 Description: This is a spatio-temporal cluster analysis used to test the R package clustTMB using spatio-temporal simulated fishery CPUE data
 Depends: R (>= 4.0.0)
